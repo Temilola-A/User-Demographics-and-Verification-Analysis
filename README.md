@@ -8,13 +8,20 @@
   
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
   
-- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Exploratory Data Analysis](exploratory-data-analysis)
   
-- Results/ Findings
-- Recommendations
-- Limitations and References
+- [Results and Findings](results-and-findings)
+  
+- [Recommendations](#recommendations)
+  
+- [Limitations and References](limitations-and-references)
+  
 
   ## Project Overview
+
+![image](https://github.com/user-attachments/assets/be481258-e6fd-48fd-ba73-80f4d7e9c52a)
+
+
   This project was focused on analyzing user and transaction data from a fintech platform to gain insights into user demographics, verification status, and transaction behaviours. The objective was to import raw data into a Excel, perform data analysis, and develop an interactive and insightful dashboard using PowerBi for stalkholders.
 
   ## Data Sources
@@ -122,6 +129,7 @@ Here is the link to the Dashboard
   - Weekly Monitoring: Configure Power BI alerts on sharp drops/spikes in users or volume.
 
 😄
+
 💻
 
  
