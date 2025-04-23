@@ -2,10 +2,14 @@
 
 ### Table Of Content
 
-- [Project Overview](#Project Overview)
-- Data Sources
-- Data Cleaning and Preparation
-- Exploratory Data Analysis
+- [Project Overview](#project-overview)
+  
+- [Data Sources](#data-sources)
+  
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+  
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+  
 - Results/ Findings
 - Recommendations
 - Limitations and References
