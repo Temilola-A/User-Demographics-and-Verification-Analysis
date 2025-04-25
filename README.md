@@ -32,7 +32,7 @@
  
     ## Tools and Technologies Used
 
- ### Excel :
+ ### Excel [Download here](http://microsoft.com)
     - For data import, transformation, and validation.
     - For preliminary and inspection and metadata review.
 
@@ -117,7 +117,7 @@ Total Users by Residence Country
   - Missing Regions: Zero data from some countrires__ possible collection issues.
   - Time Scope: Only January - March 2024 __No seasonal trends beyond Q1.
 
-Here is the link to the Dashboard 
+Here is the link to the Dashboard [Downlaod here](https://app.powerbi.com/view?r=eyJrIjoiMjUxNDEzMjItMzcxNS00NzlkLTgwYmUtYjYyNmMxMmZjNjZiIiwidCI6IjY4ZDBlMjhiLTg3NTUtNDgzMi1iM2JjLWRhOGQwNjM3YzY5ZCJ9)
   
 
   ## Recommendations
